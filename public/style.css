@@ -32,6 +32,12 @@ body {
 	background-color: white;
 	color: black;
 }
+.bot{
+	display: inline;
+}
+.right{
+	float: right;
+}
 .pp{
 	height: 19rem;
 	width: 13rem;
@@ -59,13 +65,16 @@ h4{
 .product img {
 	margin-bottom: 10px;
 }
+.row{
+	margin-top: 1rem;
+}
 @media only screen and (max-width: 600px) {
 	.head{
 		
 		font-size: 3.5rem;
+		display: block;
+		margin: auto;
 		margin-bottom: 2rem;
-		display: flex;
-		margin-left:0.5rem;
 	}
 	.con{
 		font-size: 1.5rem;
@@ -75,8 +84,9 @@ h4{
 	.logo{
 		height: 11rem;
 		width: 8rem;
-		margin-bottom: 2rem;
-		margin-left: 14.5rem;
+		display: block;
+		margin: auto;
+		margin-bottom: 1rem;
 		
 		
 	}
