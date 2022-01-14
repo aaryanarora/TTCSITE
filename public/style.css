@@ -54,6 +54,29 @@ a{
 h4{
 	margin-top: 0;
 }
+.nvb{
+	font-size: 1.5rem;
+	color: black;
+	margin-right: 2rem;
+	display: inline;
+	background-color: rgba(0, 0, 0, 0);
+	border: 0px;
+}
+.bt:hover{
+	border: 2px solid rgba(0, 0, 0, 0.274);
+	border-radius: 5px;
+
+}
+.active{
+	border: 2px solid rgba(0, 0, 0, 0.521);
+	border-radius: 5px;
+}
+
+.nv{
+	text-decoration: none;
+	color: black;
+	
+}
 .product {
 	margin-top: 2rem;
 	margin-bottom: 30px;
@@ -81,6 +104,7 @@ h4{
 		
 		
 	}
+	
 	.logo{
 		height: 11rem;
 		width: 8rem;
