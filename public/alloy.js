@@ -168,6 +168,61 @@ var data = [
 		"Size": "15 inch",
 		"Model": "MQ678 15x7.5 4x100",
 		"image": "images/alloys/15_mq678.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "M8501U 15x6.5 8x100/108",
+		"image": "images/alloys/15_m8501u.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "B310 15x7 4x100",
+		"image": "images/alloys/15_b310g.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "MP669U 15x7 4x100",
+		"image": "images/alloys/15_mp669u.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "5004 15x7 8x100/114.3",
+		"image": "images/alloys/15_5004.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "A216 15x7 4x100",
+		"image": "images/alloys/15_a216.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "V87 8 hole",
+		"image": "images/alloys/15_v87.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "MS05G 15x7 8x100/108",
+		"image": "images/alloys/15_m505g.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "B310 15x7 4x100",
+		"image": "images/alloys/15_b310r.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "605 15x7.5 8x100/114.3",
+		"image": "images/alloys/15_605.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "PY204 15x7 4x100",
+		"image": "images/alloys/15_py204.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "DM553 15x7 8x100/114.3",
+		"image": "images/alloys/15_dm553.jpeg"
 	}
 	
 	
