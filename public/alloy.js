@@ -11,13 +11,13 @@ var data = [
 	},
 	{
 		"Size": "15 inch",
-		"Model": "B290",
-		"image": "images/alloys/alloy1.jpeg"
+		"Model": "BMUCR 4x100",
+		"image": "images/alloys/15_bmucr.jpeg"
 	},
 	{
-		"Size": "16 inch",
-		"Model": "B290",
-		"image": "images/alloys/alloy1.jpeg"
+		"Size": "15 inch",
+		"Model": "462 15x6.5 8x100/114.3",
+		"image": "images/alloys/15_462.jpeg"
 	},
 	{
 		"Size": "13 inch",
