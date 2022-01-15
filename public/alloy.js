@@ -68,6 +68,11 @@ var data = [
 		"Size": "15 inch",
 		"Model": "YS504 15x7 4x100/114.3",
 		"image": "images/alloys/15_ys504.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "AF027 15x6.5 8x100/114.3",
+		"image": "images/alloys/15_af027.jpeg"
 	}
 	
 ];
@@ -85,7 +90,7 @@ for (var i = 0; i < data.length; i++) {
 		image = data[i].image;
 	
 	//create product cards
-	products += "<div class='col-sm-4 product' data-Size='" + Size + "' data-Brand='" + "' data-Model='" + Model + "' data-price='" + "'><div class='product-inner text-center'><img class='ppa' src='" + image + "'><br />Size: " + Size + "<br />Model: " + Model + "</div></div>";
+	products += "<div class='col-sm-4 product' data-Size='" + Size + "' data-Brand='" + "' data-Model='" + Model + "' data-price='" + "'><div class='product-inner text-center'><img class='pp' src='" + image + "'><br />Size: " + Size + "<br />Model: " + Model + "</div></div>";
 	
 	//create dropdown of makes
 	if (Sizes.indexOf("<option value='" + Size + "'>" + Size + "</option>") == -1) {
