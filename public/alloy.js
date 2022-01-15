@@ -20,29 +20,49 @@ var data = [
 		"image": "images/alloys/15_462.jpeg"
 	},
 	{
-		"Size": "13 inch",
-		"Model": "B290",
-		"image": "images/alloys/alloy1.jpeg"
+		"Size": "15 inch",
+		"Model": "V120 15x6.5 12x100x114.3",
+		"image": "images/alloys/15_v120.jpeg"
 	},
 	{
-		"Size": "13 inch",
-		"Model": "B290",
-		"image": "images/alloys/alloy1.jpeg"
+		"Size": "15 inch",
+		"Model": "RS2 15x7 8x100/114.3",
+		"image": "images/alloys/15_rs2.jpeg"
 	},
 	{
-		"Size": "13 inch",
-		"Model": "B290",
-		"image": "images/alloys/alloy1.jpeg"
+		"Size": "15 inch",
+		"Model": "V1593 15x6.5 8x100/114.3",
+		"image": "images/alloys/15_v1593.jpeg"
 	},
 	{
-		"Size": "13 inch",
-		"Model": "B290",
-		"image": "images/alloys/alloy1.jpeg"
+		"Size": "15 inch",
+		"Model": "885A 15x7 4x100",
+		"image": "images/alloys/15_885a.jpeg"
 	},
 	{
-		"Size": "13 inch",
-		"Model": "B290",
-		"image": "images/alloys/alloy1.jpeg"
+		"Size": "15 inch",
+		"Model": "L118 15x6.5 4x100",
+		"image": "images/alloys/15_l118.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "ZW841 15x6.5 8x100/114.3",
+		"image": "images/alloys/15_zw841.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "5630 15x7 4x100",
+		"image": "images/alloys/15_5630.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "YS2231 15x7 8x100/114.3",
+		"image": "images/alloys/15_ys2231.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "WT572 15x7 8x100/114.3 ",
+		"image": "images/alloys/15_wt572.jpeg"
 	},
 	
 ];
