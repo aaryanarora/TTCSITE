@@ -73,7 +73,12 @@ var data = [
 		"Size": "15 inch",
 		"Model": "VR70 15x7 8x100/114.3",
 		"image": "images/alloys/15_vr70.jpeg"
-	}
+	},
+	{
+		"Size": "15 inch",
+		"Model": "H565 15x7 8x100/114.3",
+		"image": "images/alloys/15_h565.jpeg"
+	},
 	
 	
 ];
