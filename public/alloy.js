@@ -138,6 +138,36 @@ var data = [
 		"Size": "15 inch",
 		"Model": "5630 15x7 8x100/114.3",
 		"image": "images/alloys/15_5630b.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "TORQUE9013 15x6.5 8x100/108",
+		"image": "images/alloys/15_torque.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "AD10 15x8 4x100",
+		"image": "images/alloys/15_ad10.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "L984 15x8 4x100",
+		"image": "images/alloys/15_l984.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "RS6 15x7 8x100/108",
+		"image": "images/alloys/15_rs6.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "752 15x7 8x100/114.3",
+		"image": "images/alloys/15_752.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "MQ678 15x7.5 4x100",
+		"image": "images/alloys/15_mq678.jpeg"
 	}
 	
 	
