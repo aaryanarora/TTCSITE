@@ -64,6 +64,11 @@ var data = [
 		"Model": "WT572 15x7 8x100/114.3 ",
 		"image": "images/alloys/15_wt572.jpeg"
 	},
+	{
+		"Size": "15 inch",
+		"Model": "YS504 15x7 4x100/114.3",
+		"image": "images/alloys/15_ys504.jpeg"
+	}
 	
 ];
 
