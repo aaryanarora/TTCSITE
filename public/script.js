@@ -766,7 +766,7 @@ for (var i = 0; i < data.length; i++) {
 		image = data[i].image;
 	
 	//create product cards
-	products += "<div class='col-sm-4 product' data-Size='" + Size + "' data-Brand='" + Brand + "' data-Model='" + Model + "' data-price='" + rawPrice + "'><div class='product-inner text-center'><img class='pp' src='" + image + "'><br />Size: " + Size + "<br />Brand: " + Brand + "<br />Model: " + Model + "<br />Price: " + price + "</div></div>";
+	products += "<div class='col-sm-4 product' data-Size='" + Size + "' data-Brand='" + Brand + "' data-Model='" + Model + "' data-price='" + rawPrice + "'><div class='product-inner text-center'><img class='pp' src='" + image + "'><br />Size: " + Size + "<br />Brand: " + Brand + "<br />Model: " + Model + "<br />Price: " + price +"<br/><a href='#' class='wan'><i class='fa fa-whatsapp wa' style='font-size:24px'></i></a>" + "</div></div>";
 	
 	//create dropdown of makes
 	if (Sizes.indexOf("<option value='" + Size + "'>" + Size + "</option>") == -1) {
