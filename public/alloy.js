@@ -258,6 +258,41 @@ var data = [
 		"Size": "16 inch",
 		"Model": "DM553 16x7 8x100/114.3",
 		"image": "images/alloys/16_dm553.jpeg"
+	},
+	{
+		"Size": "16 inch",
+		"Model": "N081 16x7 4x100/108",
+		"image": "images/alloys/16_n081.jpeg"
+	},
+	{
+		"Size": "16 inch",
+		"Model": "GW07 16x7 8x100/114.3",
+		"image": "images/alloys/16_gw07.jpeg"
+	},
+	{
+		"Size": "16 inch",
+		"Model": "MS069 16x7 8x100/108",
+		"image": "images/alloys/16_ms069.jpeg"
+	},
+	{
+		"Size": "16 inch",
+		"Model": "M003 16x8 4x100",
+		"image": "images/alloys/16_m003.jpeg"
+	},
+	{
+		"Size": "16 inch",
+		"Model": "M004 16x8 4x100",
+		"image": "images/alloys/16_m0041.jpeg"
+	},
+	{
+		"Size": "16 inch",
+		"Model": "M004 16x8 4x100",
+		"image": "images/alloys/16_m0042.jpeg"
+	},
+	{
+		"Size": "16 inch",
+		"Model": "M004 16x8 4x100",
+		"image": "images/alloys/16_m0043.jpeg"
 	}
 	
 	
