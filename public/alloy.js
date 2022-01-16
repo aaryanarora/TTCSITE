@@ -52,7 +52,7 @@ var data = [
 	{
 		"Size": "15 inch",
 		"Model": "5630 15x7 4x100",
-		"image": "images/alloys/15_5630.jpeg"
+		"image": "images/alloys/15_5630b.jpeg"
 	},
 	{
 		"Size": "15 inch",
