@@ -223,7 +223,13 @@ var data = [
 		"Size": "15 inch",
 		"Model": "DM553 15x7 8x100/114.3",
 		"image": "images/alloys/15_dm553.jpeg"
+	},
+	{
+		"Size": "15 inch",
+		"Model": "AF027 15x6.5 8x100/108",
+		"image": "images/alloys/15_af027.jpeg"
 	}
+	
 	
 	
 ];
